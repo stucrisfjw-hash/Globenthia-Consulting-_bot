@@ -1,0 +1,5 @@
+# Token de tu página de Facebook Messenger
+FB_PAGE_TOKEN = "EAAKuT5uq0l4BPjuO7kGvnVDOuuD2YUX5YwC8erdFf413sYt9D5x1pAdeHdyXVZAkKxAIGbqiZAo6QfzRJZBlXHnlEYZB210jaDfwmxCo8ZB9R1dPXK5gyLur1Qfxk0tDX4OuGHgjmDZAYBn0524MCPYKUWjDViubx7a9vlLqZCaWqZAAwLO5EBYwT8S23xbPlQajMIqOINFEe1YBHqzcnoysIeO7ukCP2UZBqU11WwJoZBslPRlBvk"
+
+# Token de verificación
+VERIFY_TOKEN = "midemo123"
